@@ -1,5 +1,8 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+</script>
 
 <template>
-  <div></div>
+  <div class="page-gradient-container">
+    <router-view></router-view>
+  </div>
 </template>
